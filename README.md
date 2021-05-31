@@ -20,3 +20,5 @@ Loss 和 mAP變化圖如下：
 
 測試結果（test02.jpg）  
 ![](https://raw.githubusercontent.com/OmniXRI/Yolov4-tiny_Colab_User_Datasets/main/images/result_test02.png)
+
+## 完整說明文章請參閱[如何以Google Colab及Yolov4-tiny來訓練自定義資料集─以狗臉、貓臉、人臉偵測為例](https://omnixri.blogspot.com/2021/05/google-colabyolov4-tiny.html)
